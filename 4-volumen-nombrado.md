@@ -79,6 +79,8 @@ docker run -d --name server-drupal --network net-drupal -p 9700:80 -v vol-drupal
 _La instalación puede tomar varios minutos, mientras espera realice un diagrama de los contenedores que ha creado en este apartado._
 
 # COMPLETAR CON EL DIAGRAMA SOLICITADO
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/30922886-bc8f-4678-85e0-d84c744d1c30" />
+
 
 ### Eliminar un volumen específico
 ```
